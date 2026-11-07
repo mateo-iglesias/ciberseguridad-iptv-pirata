@@ -1,0 +1,25 @@
+par,tipo_de_conexion,subida_del_tv_MB,bajada_al_tv_MB,paquetes,observacion
+Par 01,satelital,1.746,4.041,9377,
+Par 02,satelital,1.87,0.357,4841,el TV subio mas de lo que recibio
+Par 03,fijo,0.948,0.964,4326,
+Par 04,fijo,0.427,0.614,1868,
+Par 05,fijo,0.055,0.7,1616,
+Par 06,fijo,0.437,0.015,795,el TV subio mas de lo que recibio
+Par 07,fijo,0.035,0.037,891,
+Par 08,fijo,0.018,0.017,455,
+Par 09,fijo,0.032,0.0,111,intento de conexion sin respuesta
+Par 10,fijo,0.03,0.0,103,intento de conexion sin respuesta
+Par 11,fijo,0.016,0.0,56,intento de conexion sin respuesta
+Par 12,fijo,0.016,0.0,56,intento de conexion sin respuesta
+Par 13,fijo,0.016,0.0,56,intento de conexion sin respuesta
+Par 14,fijo,0.014,0.0,47,intento de conexion sin respuesta
+Par 15,fijo,0.01,0.0,35,intento de conexion sin respuesta
+Par 16,fijo,0.01,0.0,35,intento de conexion sin respuesta
+Par 17,fijo,0.001,0.008,30,
+Par 18,fijo,0.001,0.007,24,
+Par 19,fijo,0.001,0.005,22,
+Par 20,fijo,0.0,0.002,6,
+Par 21,fijo,0.0,0.0,2,
+Par 22,fijo,0.0,0.0,2,
+Par 23,fijo,0.0,0.0,4,
+Par 24,fijo,0.0,0.0,2,
