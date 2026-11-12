@@ -1,6 +1,6 @@
 # Ciberseguridad: por qué las apps de IPTV pirata son "gratis"
 
-![Portada](portada.png)
+![Portada](portada.jpg)
 
 > Investigación sobre las apps de películas, series y canales "gratis" para Android TV
 > y TV Box (la familia de Magis TV, Xuper TV, Xuper Plus, Hydra y similares): qué hacen
